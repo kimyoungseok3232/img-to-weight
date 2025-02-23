@@ -9,7 +9,7 @@ assignees: ''
 
 ## Title
 ### Branch
-* [] Feat1
-* [] Feat2
+* [ ] Feat1
+* [ ] Feat2
 
 ### Addition or Description
